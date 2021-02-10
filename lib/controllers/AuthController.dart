@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:Delivery/api/api_util.dart';
-import 'package:Delivery/models/Account.dart';
-import 'package:Delivery/models/MyResponse.dart';
-import 'package:Delivery/services/PushNotificationsManager.dart';
-import 'package:Delivery/utils/InternetUtils.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
+import 'package:zayed/api/api_util.dart';
+import 'package:zayed/models/Account.dart';
+import 'package:zayed/models/MyResponse.dart';
+import 'package:zayed/services/PushNotificationsManager.dart';
+import 'package:zayed/utils/InternetUtils.dart';
+import 'package:zayed/utils/SizeConfig.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'package:shared_preferences/shared_preferences.dart';

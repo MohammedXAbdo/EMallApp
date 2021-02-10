@@ -1,4 +1,4 @@
-import 'package:Delivery/utils/SizeConfig.dart';
+import 'package:zayed/utils/SizeConfig.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../AppTheme.dart';

@@ -1,4 +1,4 @@
-import 'package:Delivery/AppTheme.dart';
+import 'package:zayed/AppTheme.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 

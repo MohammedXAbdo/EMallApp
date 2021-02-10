@@ -1,12 +1,12 @@
-import 'package:Delivery/AppTheme.dart';
-import 'package:Delivery/api/currency_api.dart';
-import 'package:Delivery/models/Category.dart';
-import 'package:Delivery/models/ProductImage.dart';
-import 'package:Delivery/models/ProductItem.dart';
-import 'package:Delivery/models/ProductReview.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
-import 'package:Delivery/utils/TextUtils.dart';
+import 'package:zayed/AppTheme.dart';
+import 'package:zayed/api/currency_api.dart';
+import 'package:zayed/models/Category.dart';
+import 'package:zayed/models/ProductImage.dart';
+import 'package:zayed/models/ProductItem.dart';
+import 'package:zayed/models/ProductReview.dart';
+import 'package:zayed/services/AppLocalizations.dart';
+import 'package:zayed/utils/SizeConfig.dart';
+import 'package:zayed/utils/TextUtils.dart';
 import 'package:flutter/material.dart';
 
 import 'Shop.dart';

@@ -1,4 +1,4 @@
-import 'package:Delivery/models/Product.dart';
+import 'package:zayed/models/Product.dart';
 
 class Favorite {
   int id, productId;

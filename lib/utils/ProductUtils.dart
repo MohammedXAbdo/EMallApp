@@ -1,5 +1,5 @@
-import 'package:Delivery/models/ProductItem.dart';
-import 'package:Delivery/models/ProductItemFeature.dart';
+import 'package:zayed/models/ProductItem.dart';
+import 'package:zayed/models/ProductItemFeature.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 

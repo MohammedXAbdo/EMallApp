@@ -1,10 +1,10 @@
-import 'package:Delivery/controllers/AuthController.dart';
-import 'package:Delivery/models/Account.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
-import 'package:Delivery/views/addresses/AllAddressScreen.dart';
-import 'package:Delivery/views/auth/EditProfileScreen.dart';
-import 'package:Delivery/views/auth/LoginScreen.dart';
+import 'package:zayed/controllers/AuthController.dart';
+import 'package:zayed/models/Account.dart';
+import 'package:zayed/services/AppLocalizations.dart';
+import 'package:zayed/utils/SizeConfig.dart';
+import 'package:zayed/views/addresses/AllAddressScreen.dart';
+import 'package:zayed/views/auth/EditProfileScreen.dart';
+import 'package:zayed/views/auth/LoginScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:provider/provider.dart';

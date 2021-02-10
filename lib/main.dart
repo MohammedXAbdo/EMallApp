@@ -1,9 +1,9 @@
-import 'package:Delivery/controllers/AuthController.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
-import 'package:Delivery/services/PushNotificationsManager.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
-import 'package:Delivery/views/AppScreen.dart';
-import 'package:Delivery/views/auth/LoginScreen.dart';
+import 'package:zayed/controllers/AuthController.dart';
+import 'package:zayed/services/AppLocalizations.dart';
+import 'package:zayed/services/PushNotificationsManager.dart';
+import 'package:zayed/utils/SizeConfig.dart';
+import 'package:zayed/views/AppScreen.dart';
+import 'package:zayed/views/auth/LoginScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';

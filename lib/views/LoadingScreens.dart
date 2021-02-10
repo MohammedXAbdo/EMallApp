@@ -1,5 +1,5 @@
-import 'package:Delivery/AppTheme.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
+import 'package:zayed/AppTheme.dart';
+import 'package:zayed/utils/SizeConfig.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:shimmer/shimmer.dart';

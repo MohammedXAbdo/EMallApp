@@ -1,4 +1,4 @@
-import 'package:Delivery/api/api_util.dart';
+import 'package:zayed/api/api_util.dart';
 
 class TextUtils {
   static String getImageUrl(String url,

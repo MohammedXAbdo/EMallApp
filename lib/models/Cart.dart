@@ -1,6 +1,6 @@
-import 'package:Delivery/models/Product.dart';
-import 'package:Delivery/models/ProductItem.dart';
-import 'package:Delivery/utils/TextUtils.dart';
+import 'package:zayed/models/Product.dart';
+import 'package:zayed/models/ProductItem.dart';
+import 'package:zayed/utils/TextUtils.dart';
 
 class Cart {
   int id;

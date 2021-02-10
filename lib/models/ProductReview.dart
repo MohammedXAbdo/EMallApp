@@ -1,4 +1,4 @@
-import 'package:Delivery/models/User.dart';
+import 'package:zayed/models/User.dart';
 
 class ProductReview {
   int id, rating, orderId, productId, userId;

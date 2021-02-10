@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:Delivery/api/api_util.dart';
-import 'package:Delivery/controllers/AuthController.dart';
-import 'package:Delivery/models/Filter.dart';
-import 'package:Delivery/models/MyResponse.dart';
-import 'package:Delivery/models/Product.dart';
-import 'package:Delivery/utils/InternetUtils.dart';
+import 'package:zayed/api/api_util.dart';
+import 'package:zayed/controllers/AuthController.dart';
+import 'package:zayed/models/Filter.dart';
+import 'package:zayed/models/MyResponse.dart';
+import 'package:zayed/models/Product.dart';
+import 'package:zayed/utils/InternetUtils.dart';
 
 import 'package:http/http.dart' as http;
 

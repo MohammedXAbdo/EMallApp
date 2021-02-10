@@ -1,8 +1,8 @@
 import 'dart:convert';
-import 'package:Delivery/api/api_util.dart';
-import 'package:Delivery/models/Favorite.dart';
-import 'package:Delivery/models/MyResponse.dart';
-import 'package:Delivery/utils/InternetUtils.dart';
+import 'package:zayed/api/api_util.dart';
+import 'package:zayed/models/Favorite.dart';
+import 'package:zayed/models/MyResponse.dart';
+import 'package:zayed/utils/InternetUtils.dart';
 import 'package:http/http.dart' as http;
 
 import 'AuthController.dart';

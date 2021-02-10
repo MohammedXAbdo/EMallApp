@@ -1,10 +1,10 @@
-import 'package:Delivery/models/DeliveryBoy.dart';
-import 'package:Delivery/models/DeliveryBoyReview.dart';
-import 'package:Delivery/models/OrderPayment.dart';
-import 'package:Delivery/models/ProductReview.dart';
-import 'package:Delivery/models/ShopReview.dart';
-import 'package:Delivery/models/UserAddress.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
+import 'package:zayed/models/DeliveryBoy.dart';
+import 'package:zayed/models/DeliveryBoyReview.dart';
+import 'package:zayed/models/OrderPayment.dart';
+import 'package:zayed/models/ProductReview.dart';
+import 'package:zayed/models/ShopReview.dart';
+import 'package:zayed/models/UserAddress.dart';
+import 'package:zayed/services/AppLocalizations.dart';
 import 'package:flutter/material.dart';
 
 import 'Cart.dart';

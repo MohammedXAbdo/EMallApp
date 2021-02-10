@@ -1,4 +1,4 @@
-import 'package:Delivery/api/api_util.dart';
+import 'package:zayed/api/api_util.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class UrlUtils {

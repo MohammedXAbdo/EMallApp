@@ -1,4 +1,4 @@
-import 'package:Delivery/models/ProductItemFeature.dart';
+import 'package:zayed/models/ProductItemFeature.dart';
 
 class ProductItem {
   int id;

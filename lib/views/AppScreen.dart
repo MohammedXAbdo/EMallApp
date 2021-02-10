@@ -1,10 +1,10 @@
-import 'package:Delivery/AppTheme.dart';
-import 'package:Delivery/AppThemeNotifier.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
-import 'package:Delivery/views/FavoriteScreen.dart';
-import 'package:Delivery/views/HomeScreen.dart';
-import 'package:Delivery/views/SearchScreen.dart';
-import 'package:Delivery/views/auth/SettingScreen.dart';
+import 'package:zayed/AppTheme.dart';
+import 'package:zayed/AppThemeNotifier.dart';
+import 'package:zayed/utils/SizeConfig.dart';
+import 'package:zayed/views/FavoriteScreen.dart';
+import 'package:zayed/views/HomeScreen.dart';
+import 'package:zayed/views/SearchScreen.dart';
+import 'package:zayed/views/auth/SettingScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:provider/provider.dart';

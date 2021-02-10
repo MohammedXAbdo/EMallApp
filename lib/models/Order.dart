@@ -1,7 +1,7 @@
-import 'package:Delivery/models/DeliveryBoy.dart';
-import 'package:Delivery/models/OrderPayment.dart';
-import 'package:Delivery/models/UserAddress.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
+import 'package:zayed/models/DeliveryBoy.dart';
+import 'package:zayed/models/OrderPayment.dart';
+import 'package:zayed/models/UserAddress.dart';
+import 'package:zayed/services/AppLocalizations.dart';
 
 import 'Cart.dart';
 import 'Coupon.dart';

@@ -1,4 +1,4 @@
-import 'package:Delivery/utils/TextUtils.dart';
+import 'package:zayed/utils/TextUtils.dart';
 
 class Account {
   String name, email, token, avatarUrl;

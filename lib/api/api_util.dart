@@ -1,13 +1,13 @@
-import 'package:Delivery/controllers/AuthController.dart';
-import 'package:Delivery/views/MaintenanceScreen.dart';
-import 'package:Delivery/views/auth/LoginScreen.dart';
+import 'package:zayed/controllers/AuthController.dart';
+import 'package:zayed/views/MaintenanceScreen.dart';
+import 'package:zayed/views/auth/LoginScreen.dart';
 import 'package:flutter/material.dart';
 
 enum RequestType { Post, Get, PostWithAuth, GetWithAuth }
 
 class ApiUtil {
   /*----------------- Fpr development server -----------------*/
-  // static const String IP_ADDRESS = "192.168.1.109";
+  static const String IP_ADDRESS = "192.168.1.5";
 
   static const String PORT = "8000";
   static const String API_VERSION = "v1";

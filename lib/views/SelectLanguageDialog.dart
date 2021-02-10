@@ -1,5 +1,5 @@
-import 'package:Delivery/services/AppLocalizations.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
+import 'package:zayed/services/AppLocalizations.dart';
+import 'package:zayed/utils/SizeConfig.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

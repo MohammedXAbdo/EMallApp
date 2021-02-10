@@ -1,10 +1,10 @@
-import 'package:Delivery/controllers/AuthController.dart';
-import 'package:Delivery/controllers/MaintenanceController.dart';
-import 'package:Delivery/models/MyResponse.dart';
-import 'package:Delivery/services/AppLocalizations.dart';
-import 'package:Delivery/utils/SizeConfig.dart';
-import 'package:Delivery/views/AppScreen.dart';
-import 'package:Delivery/views/auth/LoginScreen.dart';
+import 'package:zayed/controllers/AuthController.dart';
+import 'package:zayed/controllers/MaintenanceController.dart';
+import 'package:zayed/models/MyResponse.dart';
+import 'package:zayed/services/AppLocalizations.dart';
+import 'package:zayed/utils/SizeConfig.dart';
+import 'package:zayed/views/AppScreen.dart';
+import 'package:zayed/views/auth/LoginScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../AppTheme.dart';
